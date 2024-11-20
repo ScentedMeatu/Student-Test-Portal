@@ -23,7 +23,7 @@ display()
 detailAnalysis()
 classTop3()
 ```
-## explination
+## explanation
 
 1) Take Test
 	- generate marks for 3 sub for each students
